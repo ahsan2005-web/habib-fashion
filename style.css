@@ -68,27 +68,6 @@ nav a:hover{
     cursor:pointer;
 }
 
-/* Hero Section */
-
-.hero{
-    height:80vh;
-    display:flex;
-    justify-content:center;
-    align-items:center;
-    text-align:center;
-    background:linear-gradient(135deg,#fdf2f8,#f8fafc);
-}
-
-.hero h1{
-    font-size:60px;
-    margin-bottom:15px;
-}
-
-.hero p{
-    font-size:22px;
-    margin-bottom:30px;
-}
-
 .btn{
     display:inline-block;
     background:#111;
